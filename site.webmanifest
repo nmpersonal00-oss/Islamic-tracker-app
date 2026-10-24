@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Sakinah — Our Pearl Journal",
+  "short_name": "Sakinah",
+  "description": "Our private shared Qur’an and Islamic learning journal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf5e8",
+  "theme_color": "#efe6d2",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
